@@ -86,10 +86,3 @@ pip install -r requirements.txt
 - Brain tumor diagnosis assistance  
 - Research in biomedical image processing  
 
----
-
-## 👨‍💻 Developed By
-**[Your Name]**  
-Department of [Your Department]  
-[Your College Name]  
-Project Guide: [Guide Name]

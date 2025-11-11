@@ -34,13 +34,13 @@ The main objective is to automatically highlight tumor regions for early diagnos
 Brain_Tumor_Detection/
 │
 ├── Code/
-│   ├── brain_tumor_detection.py       # Main Python program
-│   ├── requirements.txt               # List of libraries
+│   ├── Final_Brain_Tumor.n       # Main Python program
+│   ├── ranisodiff_function.m            
 │
 ├── Data/
-│   ├── sample1_mri.jpg
-│   ├── sample2_mri.jpg
-│   └── ... (more MRI images)
+│   ├── m1.jpg
+│   ├── m2.jpg
+│   └── m3.jpg
 │
 └── README.md
 ```
